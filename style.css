@@ -635,7 +635,7 @@ button {
     width: 50rem;
     height: 30rem;
     margin-top: 1rem;
-    margin-left: 3rem;
+    margin-left: -3rem;
   }
 
   .informacion img{
@@ -691,8 +691,8 @@ margin-top: 6rem;
 }
 
 .contenido1 h3{
-margin-top: -24rem;
- margin-left: 68rem;
+ margin-top: -24rem;
+ margin-left: 69rem;
  color: #ffffff;
 }
 
@@ -771,7 +771,7 @@ max-width: 100%;
     width: 50rem;
     height: 30rem;
     margin-top: 1rem;
-    margin-left: 3rem;
+    margin-left: -3%;
   }
 
   .informacion img{
@@ -787,7 +787,8 @@ max-width: 100%;
     border-radius: 1rem;
     width: 50rem;
     height: 30rem;
-    margin-left: 33rem;
+    margin-top: 39rem;
+    margin-left: 43%;
   }
 
   .informacion1 img{
@@ -828,29 +829,31 @@ margin-top: 6rem;
 
 .contenido1 h3{
 margin-top: -24rem;
- margin-left: 68rem;
+ margin-left: 69%;
  color: #ffffff;
 }
 
 .contenido1 p{
 color: #ffffffb6;
 margin-top: 1rem;
-margin-left: 65rem;
+margin-left: 69%;
 }
   
 .contenido2{
-margin-left: 3rem;
+
 margin-top: 29rem;
 
 }
 
 .contenido2 h3{
 margin-top: -20rem;
+margin-left: 10%;
 color: #ffffff;
 }
 
 .contenido2 p{
 color: #ffffffb6;
+margin-left: 10%;
 margin-top: 1rem;
 }
 
