@@ -313,16 +313,7 @@ button {
   }
  
 
-  /*.container {
-    --color1: rgb(0, 3, 49);
-    --color2: rgb(248, 255, 182);
-    width: 50rem;
-    height: 30rem;
-    background-image: linear-gradient(45deg, var(--color2) 25%, transparent 25%, transparent 75%, var(--color2) 75%, var(--color2)), 
-                      linear-gradient(135deg, var(--color2) 25%, var(--color1) 25%, var(--color1) 75%, var(--color2) 75%, var(--color2));
-    background-size: 90px 90px;
-    background-position: 0 0, 135px 135px;
-  }*/
+ 
 @media (max-width: 600px) {
     .menu{
       margin-left: -1rem;
@@ -455,6 +446,12 @@ button {
   .header-content .inf{
     margin-top: 1rem;
   }
+  
+  .conted {
+    background-color: #000000;
+    max-width: 100%;
+    margin-top: -3rem;
+   }
 }
 
 @media (min-width: 601px) and (max-width: 900px)  {
@@ -614,6 +611,12 @@ button {
      margin-left: 35rem;
   }
 
+  .conted {
+    background-color: #000000;
+    max-width: 100%;
+    margin-top: -3rem;
+  }
+
 }
 
 
@@ -761,6 +764,19 @@ max-width: 100%;
     transition: all 0.3s;
   }
    
+  .register{
+    margin-top: 5rem;
+  }
+
+  .register h2{
+    margin-left: 1rem;
+  }
+
+  .register form{
+    margin-top: 3rem;
+    margin-left: 18%;
+    width: 65%;
+  }
    
   .informacion {
   
@@ -874,19 +890,11 @@ color: #ffffff;
  margin-top: 1rem;
  margin-left: 68rem;
 }
-.conted {
-background-color: #000000;
-max-width: 100%;
-
-
- 
-  
-
-
- margin-top: -3rem;
-
-
-}
+  .conted {
+   background-color: #000000;
+   max-width: 100%;
+   margin-top: -3rem;
+  }
 
   
 }    
